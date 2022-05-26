@@ -1,3 +1,5 @@
-# Desafio-de-código-Javascript ; INTRODUÇÃO A PROGRAMAÇÃO COM JAVASCRIPT
+# INTRODUÇÃO A PROGRAMAÇÃO COM JAVASCRIPT
 
-## Desafio realizado no Bootcamp da DIO HTML Web Developer
+##  Desafio-de-código-Javascript 
+
+### Desafio realizado no Bootcamp da DIO HTML Web Developer
